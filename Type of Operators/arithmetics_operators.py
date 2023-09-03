@@ -1,3 +1,5 @@
+#Operadores aritméticos
+
 product_1 = 20
 product_2 = 10
 
@@ -15,3 +17,5 @@ print(x)
 
 y = 10 / 2 + 25 * 2 - 2 ** 2
 print(y)
+
+
