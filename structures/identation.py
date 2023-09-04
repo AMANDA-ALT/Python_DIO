@@ -1,3 +1,5 @@
+# Para identar precisar por : e depois tem de dar 4 espaços , é intrusivo mas é assim que  a linguagem lê a identação dos blocos
+
 def withdraw(ammount):
     balance = 500
 
